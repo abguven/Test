@@ -12,7 +12,7 @@ and open the template in the editor.
     <body>
         <?php
             echo "Ulan git, bir turlu ogrenemedim seni."; // Bir de yorum ekliyorum
-            echo "Simdi de HP laptop'a gectim burdan yaziyorum";
+            echo "Simdi de HP laptop'a gectim burdan yaziyorum"; // Bu yorumu da github'dan ekledim
         ?>
     </body>
 </html>
