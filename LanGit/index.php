@@ -15,5 +15,6 @@ and open the template in the editor.
             echo "Simdi de HP laptop'a gectim burdan yaziyorum"; // Bu yorumu da github'dan ekledim
             echo "Bunu local repository'den ekliyorum.Hayirli olsun.!" //Bu yorum localden eklenip sonra push edildi.
         ?>
+        <SCRIPT>alert("Flugmodus");</SCRIPT>
     </body>
 </html>
