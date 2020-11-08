@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-            echo "Ulan git, bir turlu ogrenemedim seni."; // Bir de yorum ekliyorum
+            echo "Ulan <strong>git</strong>, bir turlu ogrenemedim seni."; // Bir de yorum ekliyorum
             echo "Simdi de HP laptop'a gectim burdan yaziyorum"; // Bu yorumu da github'dan ekledim
             echo "Bunu local repository'den ekliyorum.Hayirli olsun.!" //Bu yorum localden eklenip sonra push edildi.
         ?>
